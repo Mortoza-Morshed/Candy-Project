@@ -1,0 +1,22 @@
+body {
+  background-color: #f5d9df;
+  font-family: "Nunito", sans-serif;
+}
+
+#mainElement {
+  color: #ea1c2c;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.container-fluid {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: #ea1c2c;
+}
