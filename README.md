@@ -1,2 +1,2 @@
 # Candy-Project
-Museum of Candy
+Responsive Website designed using Bootstrap. 
