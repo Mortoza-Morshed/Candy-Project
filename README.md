@@ -1,2 +1,2 @@
-# Candy-Project
-Responsive Website designed using Bootstrap. 
+## Candy-Project
+Responsive Website designed using Bootstrap.
